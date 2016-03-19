@@ -11,6 +11,7 @@
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 </head>
+<body>
 <div class="sb-table">
   <div class="sb-table-row">
     <p>Header</p>
@@ -24,8 +25,7 @@
     <p>Footer</p>
   </div>
 </div>
-<body>
-  <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
-  <script src="app/js/app.js"></script>
+<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+<script src="app/js/app.js"></script>
 </body>
 </html>
