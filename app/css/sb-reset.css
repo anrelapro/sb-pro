@@ -5,7 +5,7 @@ body, html {
   height: 100%;
   box-sizing: border-box;
 }
-div, a, ul, li, span, table, tr, td, h1, h2, h3, h4, h5, h6 {
+div, p, a, ul, li, span, table, tr, td, h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
 }
@@ -16,3 +16,4 @@ a, a:hover {
   text-decoration: none;
   color: #00449C;
 }
+
