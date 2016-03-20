@@ -5,7 +5,8 @@
   <title>Bravo!</title>
   <meta name="description" content="SB-PRO site">
   <meta name="author" content="Your name">
-  <link rel="stylesheet" href="app/css/main.css">
+  <link rel="stylesheet" href="app/css/sb-pro-v-1-0-0.css">
+  <link rel="stylesheet" href="app/css/style.css">
   <link rel="icon" type="image/png" href="app/img/favicon.png" />
   <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
