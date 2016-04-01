@@ -17,7 +17,7 @@
   <div class="sb-table-row">
     <p>Header</p>
   </div>
-  <div class="sb-table-row">
+  <div class="sb-table-row-content">
     <div class="sb-table-cell">
       <p>Content</p>
     </div>
