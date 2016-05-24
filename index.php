@@ -1,32 +1,39 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Bravo!</title>
-  <meta name="description" content="SB-PRO site">
-  <meta name="author" content="Your name">
-  <link rel="stylesheet" href="app/css/sb-pro-v-1-0-0.css">
-  <link rel="stylesheet" href="app/css/style.css">
-  <link rel="icon" type="image/png" href="app/img/favicon.png" />
-  <!--[if lt IE 9]>
-  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-</head>
-<body>
-<div class="sb-table">
-  <div class="sb-table-row">
-    <p>Header</p>
-  </div>
-  <div class="sb-table-row-content">
-    <div class="sb-table-cell">
-      <p>Content</p>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>SB-PRO</title>
+
+    <!-- CSS -->
+    <link href="app/css/sb-pro.css" rel="stylesheet">
+    
+    <!-- FAVICON -->
+    <link rel="icon" type="image/png" href="app/img/design/favicon.png" />
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="sb-t">
+    	<div class="sb-r">
+    		header
+    	</div>
+    	<div class="sb-r-c">
+    		content
+    	</div>
+    	<div class="sb-r">
+    		footer
+    	</div>
     </div>
-  </div>
-  <div class="sb-table-row">
-    <p>Footer</p>
-  </div>
-</div>
-<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
-<script src="app/js/app.js"></script>
-</body>
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="app/js/app.js"></script>
+  </body>
 </html>
